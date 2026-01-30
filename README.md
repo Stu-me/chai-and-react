@@ -2,3 +2,5 @@
 # we are here to complete the react 
 # enough of documentation and lets see how far we go today 
     
+
+# task 1 make a basic adder and subtractor using hooks(useState)
